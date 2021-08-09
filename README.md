@@ -25,6 +25,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alba22/)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/304785670520700928)
 
+<!--
 ## Some stats
 <a href="https://alba22.dev">
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=alba22&layout=compact" />
@@ -32,3 +33,4 @@
 <a href="https://alba22.dev">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Alba-22&show_icons=true&theme=radical" />
 </a>
+-->
