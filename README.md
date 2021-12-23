@@ -2,7 +2,7 @@
 
 ### About me
 - Live in Ribeirão Preto, Brazil
-- Currently woking as Junior Mobile Developer at [BKPi](https://www.linkedin.com/company/bkpi/)
+- Currently woking as Mobile Developer at [BKPi](https://www.linkedin.com/company/bkpi/)
 - Computer Science Student at Federal University of Uberlândia(UFU)
 
 ## Some of my knowledges/tools that I use
