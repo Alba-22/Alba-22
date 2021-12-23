@@ -2,9 +2,8 @@
 
 ### About me
 - Live in Ribeirão Preto, Brazil
-- Currently woking as Junior Mobile Developer in [BKPi](https://www.linkedin.com/company/bkpi/)
+- Currently woking as Junior Mobile Developer at [BKPi](https://www.linkedin.com/company/bkpi/)
 - Computer Science Student at Federal University of Uberlândia(UFU)
-- Hobbies: play videogames(mostly FPSs) and watch some series/movies
 
 ## Some of my knowledges/tools that I use
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
