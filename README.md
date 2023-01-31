@@ -17,13 +17,12 @@
 </p>
 
 <p align="left">
-  <li>🌱 Learning now: Clean Architecture with Flutter and backend development with C# and .Net</li>
+  <li>🌱 Learning now: Clean Architecture with Flutter and backend development with Kotlin</li>
 </p>
 
 ### 🛠 Tech Stack
 
 ![Dart](https://img.shields.io/badge/Dart-02569B?style=for-the-badge&logo=dart&logoColor=white)
-![C#](https://img.shields.io/badge/CSharp-684D95?style=for-the-badge&logo=csharp&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-F5820D?style=for-the-badge&logo=firebase&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-0175C2?style=for-the-badge&logo=flutter&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
