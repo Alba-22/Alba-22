@@ -34,3 +34,9 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alba22/)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/304785670520700928)
 
+### 👨‍💻 My Coding Activity in the Last Year(by Wakatime)
+[![Wakatime](https://wakatime.com/share/@alba22/94cef256-3022-4044-9967-0fb046c32530.svg)](https://wakatime.com/@alba22)
+
+<!-- ![https://wakatime.com/share/@alba22/94cef256-3022-4044-9967-0fb046c32530.svg](https://wakatime.com/share/@alba22/94cef256-3022-4044-9967-0fb046c32530.svg) -->
+
+
