@@ -16,9 +16,6 @@
   <li>💼 Working as Mobile Developer @ <a href="https://www.linkedin.com/company/bioma-investimentos/)">Bioma Investimentos</a></li>
 </p>
 
-<p align="left">
-  <li>🌱 Learning now: Clean Architecture with Flutter and backend development with Kotlin</li>
-</p>
 
 ### 🛠 Tech Stack
 
