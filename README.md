@@ -13,7 +13,7 @@
 </p>
 
 <p align="left">
-  <li>💼 Working as Mobile Developer @ <a href="https://www.linkedin.com/company/bioma-investimentos/)">Bioma Investimentos</a></li>
+  <li>💼 Working as Mobile Developer @ <a href="https://www.linkedin.com/company/act-digital/">Act Digital</a></li>
 </p>
 
 
