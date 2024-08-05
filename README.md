@@ -9,11 +9,11 @@
 </p>
 
 <p align="left">
-  <li>📜 Studying Computer Science at Federal University of Uberlândia(UFU)</li>
+  <li>📜 Bachelor of Computer Science at Federal University of Uberlândia(UFU)</li>
 </p>
 
 <p align="left">
-  <li>💼 Working as Mobile Developer @ <a href="https://www.linkedin.com/company/act-digital/">Act Digital</a></li>
+  <li>💼 Working as Mobile Developer @ <a href="https://www.linkedin.com/company/act-digital/">Act Digital</a>/<a href="https://www.linkedin.com/company/sicooboficial/">Sicoob</a></li>
 </p>
 
 
